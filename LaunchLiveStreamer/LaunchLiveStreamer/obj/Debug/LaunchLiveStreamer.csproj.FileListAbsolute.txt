@@ -1,0 +1,12 @@
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\bin\Debug\LaunchLiveStreamer.exe.config
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\bin\Debug\LaunchLiveStreamer.exe
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\bin\Debug\LaunchLiveStreamer.pdb
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\MainWindow.baml
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\MainWindow.g.cs
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\App.g.cs
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\LaunchLiveStreamer_MarkupCompile.cache
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\LaunchLiveStreamer.g.resources
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\LaunchLiveStreamer.Properties.Resources.resources
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\LaunchLiveStreamer.csproj.GenerateResource.Cache
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\LaunchLiveStreamer.exe
+c:\users\baphomet\documents\visual studio 2015\Projects\LaunchLiveStreamer\LaunchLiveStreamer\obj\Debug\LaunchLiveStreamer.pdb
